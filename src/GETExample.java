@@ -68,6 +68,8 @@ public class GETExample {
         }
     }
 
+    //IntelliJ e faktisk møkk
+
     /**
      * Read the whole content from an InputStream, return it as a string
      * @param is Inputstream to read the body from
