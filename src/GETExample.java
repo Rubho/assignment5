@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.ProtocolException;
 import java.net.URL;
-
+//IntelliJ e faktisk møkk
 /**
  * An example showing how to send HTTP GET and read the response from the server
  */
@@ -68,7 +68,7 @@ public class GETExample {
         }
     }
 
-    //IntelliJ e faktisk møkk
+
 
     /**
      * Read the whole content from an InputStream, return it as a string
